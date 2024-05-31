@@ -263,6 +263,13 @@ a:hover {
     text-decoration: none;
     color: #f0542c;
 }
+
+.apexDigitalServices:hover {
+    text-decoration: none;
+    color: #f0542c !important;
+}
+
+
 .header-logo-title {
     text-decoration: none;
     font-weight: bold;
