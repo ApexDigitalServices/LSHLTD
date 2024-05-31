@@ -263,7 +263,11 @@ a:hover {
     text-decoration: none;
     color: #f0542c;
 }
-
+.header-logo-title {
+    text-decoration: none;
+    font-weight: bold;
+    color: #f0542c !important;
+}
 a:focus {
     text-decoration: none;
 }
